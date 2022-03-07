@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 
+=======
+#!/bin/bash
+echo "Holberton School" > \\\*\\\\"'\"Holberton School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+>>>>>>> bf4fe34b475ecb33415505e87639c903e0ad12e3
