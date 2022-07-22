@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# display Helberton school 10 times
+
+i=10
+until [ $i -lt 1 ]
+do
+    echo "Helberton School"
+    i=$[$i-1]
+done
