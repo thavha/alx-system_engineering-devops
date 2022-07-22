@@ -11,7 +11,7 @@ do
     then
         echo "good luck"
     else
-        echo "Helberton School"
+        echo "Best School"
     fi
     let i+=1
 done
