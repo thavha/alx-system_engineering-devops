@@ -1,1 +1,3 @@
+#!/usr/bin/env bash
+# pings an IP address passed as an argument
 ifconfig | awk -F "[: ]+" '/inet addr:/ { print $4 }
